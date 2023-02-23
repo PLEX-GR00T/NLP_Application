@@ -38,6 +38,7 @@ List of Main Projects.
 - We also created the streamline application for the universities and schools that looked just like below.
 - This application used the model trained on our customized and finetuned model.
 - This application was based on the Factual Question Answer.
+- We used this [github](https://github.com/mihail911/question-answering-with-streamlit) to cread the replica for our application.
 
 ![image](https://github.com/PLEX-GR00T/NLP/blob/main/Outputs/qa_streamlit.gif)
 
