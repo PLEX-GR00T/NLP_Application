@@ -31,11 +31,13 @@ List of Main Projects.
 ![image](https://github.com/PLEX-GR00T/NLP/blob/main/Outputs/All_model_Accuracy_compare.png)
 
 - Benchmark of trained models on same question asked to all models.
--![image](https://github.com/PLEX-GR00T/NLP/blob/main/Outputs/all_Question_Models_Accuracy_compare.png)
+![image](https://github.com/PLEX-GR00T/NLP/blob/main/Outputs/all_Question_Models_Accuracy_compare.png)
 
 
 ### **Task 4**: Create a streamline application for your Q&A use for Schools and University.
+- We also created the streamline application for the universities and schools that looked just like below.
+- This application used the model trained on our customized and finetuned model.
+- This application was based on the Factual Question Answer.
 
-## Task 1:
-- 
+![image](https://github.com/PLEX-GR00T/NLP/blob/main/Outputs/qa_streamlit.gif)
 
